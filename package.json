@@ -1,0 +1,16 @@
+{
+  "name": "swaggeruiweb",
+  "version": "1.0.0",
+  "description": "swagger web",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "swagger-ui-express": "^4.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "zwg",
+  "license": "ISC"
+}
